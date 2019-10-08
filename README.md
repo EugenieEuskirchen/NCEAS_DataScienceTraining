@@ -6,4 +6,5 @@ The Github notes we will follow are located within the [NCEAS website](http://tr
 
 I added the Yubiko key.  Hurray!
 Git conflict will be done in this line. Adding conflicting text to line 8
+Eugenie is adding more text.
 
